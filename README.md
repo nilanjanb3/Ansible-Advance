@@ -63,5 +63,6 @@ This repo contains Advanced Ansible learnings
     * [01-Ansible Vault](https://docs.ansible.com/ansible/2.9/user_guide/vault.html)
     * [02-Dynamic Inventory](https://docs.ansible.com/ansible/latest/inventory_guide/intro_dynamic_inventory.html)
     * [03-Setting EC2 Dynamic Inventory](https://devopscube.com/setup-ansible-aws-dynamic-inventory/)
+    * [04-Ansible Dynamic Inventory Azure](https://learn.microsoft.com/en-us/azure/developer/ansible/dynamic-inventory-configure?tabs=azure-cli)
     
     
