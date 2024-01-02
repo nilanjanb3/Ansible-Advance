@@ -62,5 +62,6 @@ This repo contains Advanced Ansible learnings
 * 08-Miscellaneous
     * [01-Ansible Vault](https://docs.ansible.com/ansible/2.9/user_guide/vault.html)
     * [02-Dynamic Inventory](https://docs.ansible.com/ansible/latest/inventory_guide/intro_dynamic_inventory.html)
+    * [03-Setting EC2 Dynamic Inventory](https://devopscube.com/setup-ansible-aws-dynamic-inventory/)
     
     
